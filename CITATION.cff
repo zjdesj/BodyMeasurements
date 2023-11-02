@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: If you use or refer to this data, please cite it as follows:
+message: If you use or refer to this data, please cite it as follows
 title: LiDAR-derived point cloud for cattle body measurements
 authors:
   - family: Wang
